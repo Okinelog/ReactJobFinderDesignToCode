@@ -6,3 +6,5 @@
 
 ## `Design`
 https://www.behance.net/gallery/147446083/Dashboard-Job-Finder-Job-Search-Platform
+
+#### 'We coded together with https://github.com/YasarKah'
